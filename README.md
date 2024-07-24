@@ -1,7 +1,4 @@
 # Awesome-GenAI-Unlearning
-
-
-# Large Language Models for User Modeling (LLM-UM) Reading List
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 
