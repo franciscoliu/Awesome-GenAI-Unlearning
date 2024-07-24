@@ -1,4 +1,4 @@
-# GenAI-MU-Reading
+# Awesome-GenAI-Unlearning
 
 
 # Large Language Models for User Modeling (LLM-UM) Reading List
