@@ -2,7 +2,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 This repository contains a list of papers on Generative AI Machine Unlearning based on our survey paper: [**Machine Unlearning in Generative AI: A Survey**]() (*[Zheyuan (Frank) Liu](https://franciscoliu.github.io/), [Guangyao Dou](https://guangyaodou.github.io/), [Zhaoxuan Tan](https://zhaoxuan.info/), [Yijun Tian](https://www.yijuntian.com/) and [Meng Jiang](http://www.meng-jiang.com/)*).
-We categorize existing works based on their [approaches](), modality and [applications](#applications). Additionally, we include datasets and benchmarks for various unlearning scenarios. 
+We categorize existing works based on their modality, modality and [applications](#applications). Additionally, we include datasets and benchmarks for various unlearning scenarios. 
 
 <div  align="center">    
 <img src="./asset/genai_problem.png" width="100%" height="50%">
@@ -79,6 +79,7 @@ We categorize existing works based on their [approaches](), modality and [applic
 - **LLaVA Bench:** [Neurips 2023 (oral)] Visual Instruction Tuning ([code](https://github.com/haotian-liu/LLaVA/blob/main/docs/LLaVA_Bench.md))
 - **MMHal-Bench:** Aligning Large Multimodal Models with Factually Augmented RLHF ([code](https://huggingface.co/datasets/Shengcao1006/MMHal-Bench))
 - **POPE:** [EMNLP 2023] POPE: Polling-based Object Probing Evaluation for Object Hallucination ([code](https://github.com/RUCAIBox/POPE))
+
 
 ## Generative Image Models:
 - To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now ([code](https://github.com/OPTML-Group/Diffusion-MU-Attack))
