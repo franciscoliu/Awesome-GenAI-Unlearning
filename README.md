@@ -20,7 +20,7 @@ We categorize existing works based on their [approaches](), modality and [applic
     - [Copyright Protection](#copyright-protection-1)
     - [Hallucination Reduction](#hallucination-reduction-1)
     - [Privacy Compliance](#privacy-compliance-1)
-    - [Bias/Unfairness Alleviation](bias/unfairness-alleviation-1)
+    - [Bias/Unfairness Alleviation](#biasunfairness-alleviation-1)
 
 
   
