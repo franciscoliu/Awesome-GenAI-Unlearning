@@ -27,7 +27,7 @@ We categorize existing works based on their [approaches](), modality and [applic
 #### Copyrights Protection
 - **Harry Potter**
 - **Bookcorpus**
-- **TOFU**
+- **TOFU** TOFU: A Task of Fictitious Unlearning for LLMs ([code](https://locuslab.github.io/tofu/))
 
 #### Hallucination Reduction 
 - **HaluEVAL**
@@ -55,11 +55,11 @@ We categorize existing works based on their [approaches](), modality and [applic
 
 ### Benchmarks:
 #### Generative Image Models
-- **UnlearnCanvas**
+- **UnlearnCanvas** [arxiv 2402.11846] UnlearnCanvas: A Stylized Image Dataaset to Benchmark Machine Unlearning for Diffusion Models ([code](https://github.com/OPTML-Group/UnlearnCanvas))
 
 #### LLMs
-- **TOFU**
-- **WMDP**
+- **TOFU** [arxiv 2401.06121] TOFU: A Task of Fictitious Unlearning for LLMs ([code](https://locuslab.github.io/tofu/))
+- **WMDP** [arxiv 2403.03218] The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning ([code](https://www.wmdp.ai/))
 
 
 #### LMMs
