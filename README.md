@@ -78,7 +78,20 @@ We categorize existing works based on their [approaches](), modality and [applic
 - **POPE:** [EMNLP 2023] POPE: Polling-based Object Probing Evaluation for Object Hallucination ([code](https://github.com/RUCAIBox/POPE))
 
 ## Generative Image Models:
-
+- To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now ([code](https://github.com/OPTML-Group/Diffusion-MU-Attack))
+- FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models ([code](https://github.com/Subhodip123/weak-unlearning-gan))
+- Training data attribution for diffusion models ([code](https://github.com/zheng-dai/GenEns))
+- Forget-me-not: Learning to forget in text-to-image diffusion models ([code](https://github.com/SHI-Labs/Forget-Me-Not))
+- Erasediff: Erasing data influence in diffusion models 
+- Erasing Concepts from Diffusion Models ([code](https://github.com/rohitgandikota/erasing))
+- Machine Unlearning for Image-to-Image Generative Models ([code](https://github.com/jpmorganchase/l2l-generator-unlearning))
+- SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation ([code](https://github.com/OPTML-Group/Unlearn-Saliency))
+- Ablating Concepts in Text-to-Image Diffusion Models ([code](https://github.com/nupurkmr9/concept-ablation))
+- Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers
+- Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models ([code](https://github.com/clear-nus/selectiveamnesia))
+- Generative Adversarial Networks Unlearning
+- Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks
+- Feature Unlearning for Pre-trained GANs and VAEs
 
 ## Large Language Models (LLMs):
 
