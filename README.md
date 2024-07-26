@@ -9,13 +9,52 @@ We categorize existing works based on their [approaches](), modality and [applic
 ## Table of Contents
 - [Awesome-GenAI-Unlearning ](#awesome-genai-unlearning-)
   - [Table of Contents](#table-of-contents)
-  - [Motivations](#motivations)
-  - [Datasets, Benchmarks \& Surveys](#datasets-benchmarks--surveys)
+  - [Datasets, Benchmarks & Surveys](#datasets-benchmarks--surveys)
   - [Generative Image Models](#generative-image-models)
-    
-## Motivations:
+  - [Large Language Models (LLMs)](#large-language-models-(LLMs))
+  - [Large Multimodal Models (LMMs)](#large-multimodal-models-(LMMs))
 
+  
 ## Datasets, Benchmarks & Surveys:
+
+### Datasets:
+#### Safety Alignment
+- **LAION**
+- **Civil Comments**
+- **PKU-SafeRLHF**
+- **Anthropic red team**
+
+#### Copyrights Protection
+- **Harry Potter**
+- **Bookcorpus**
+- **TOFU**
+
+#### Hallucination Reduction 
+- **HaluEVAL**
+- **TruthfulQA**
+- **CounterFact**
+- **ZsRE**
+- **MSCOCO**
+
+#### Privacy Compliance
+- **Pile**
+- **Yelp/Amazon Reviews**
+- **SST-2**
+- **PersonaChat**
+- **LEDGAR**
+- **SAMsum**
+- **IMDB**
+- **CeleA-HQ**
+- **I2P**
+
+#### Bias/Unfairness Alleviation
+- **StereoSet**
+- **HateXplain**
+- **CrowS Pairs**
+- **Anthropic red team**
+
+### Benchmarks:
+
 
 
 ## Generative Image Models:
