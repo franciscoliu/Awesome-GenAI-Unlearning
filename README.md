@@ -1,6 +1,10 @@
 # Awesome-GenAI-Unlearning
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
+<div  align="center">    
+<img src="./asset/genai_problem.png" width="100%" height="50%">
+</div>
+
 
 This repository contains a list of papers on Generative AI Machine Unlearning based on our survey paper: [**Machine Unlearning in Generative AI: A Survey**]() (*[Zheyuan (Frank) Liu](https://franciscoliu.github.io/), [Guangyao Dou](https://guangyaodou.github.io/), [Zhaoxuan Tan](https://zhaoxuan.info/), [Yijun Tian](https://www.yijuntian.com/) and [Meng Jiang](http://www.meng-jiang.com/)*).
 We categorize existing works based on their [approaches](), modality and [applications](#applications). Additionally, we include datasets and benchmarks for various unlearning scenarios. 
