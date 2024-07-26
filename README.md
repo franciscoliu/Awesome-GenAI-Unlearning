@@ -7,14 +7,14 @@ We categorize existing works based on their [approaches](), modality and [applic
 
 
 ## Table of Contents
-- [Awesome-GenAI-Unlearning ](#awesome-genai-unlearning-)
+- [Awesome-GenAI-Unlearning](#awesome-genai-unlearning)
   - [Table of Contents](#table-of-contents)
   - [Datasets, Benchmarks](#datasets-benchmarks)
     - [Datasets](#datasets)
     - [Benchmarks](#benchmarks)
   - [Generative Image Models](#generative-image-models)
-  - [Large Language Models (LLMs)](#large-language-models-(LLMs))
-  - [Large Multimodal Models (LMMs)](#large-multimodal-models-(LMMs))
+  - [Large Language Models (LLMs)](#large-language-models-llms)
+  - [Large Multimodal Models (LMMs)](#large-multimodal-models-lmms)
   - [Applications](#applications)
     - [Safety Alignment](#safety-alignment-1)
     - [Copyright Protection](#copyright-protection-1)
