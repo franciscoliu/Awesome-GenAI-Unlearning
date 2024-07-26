@@ -16,11 +16,11 @@ We categorize existing works based on their [approaches](), modality and [applic
   - [Large Language Models (LLMs)](#large-language-models-(LLMs))
   - [Large Multimodal Models (LMMs)](#large-multimodal-models-(LMMs))
   - [Applications](#applications)
-    - [Safety Alignment](#safety-alignment)
-    - [Copyright Protection](#copyright-protection)
-    - [Hallucination Reduction](#hallucination-reductionn)
-    - [Privacy Compliance](#privacy-compliance)
-    - [Bias/Unfairness Alleviation](bias/unfairness-alleviation)
+    - [Safety Alignment](#safety-alignment-1)
+    - [Copyright Protection](#copyright-protection-1)
+    - [Hallucination Reduction](#hallucination-reduction-1)
+    - [Privacy Compliance](#privacy-compliance-1)
+    - [Bias/Unfairness Alleviation](bias/unfairness-alleviation-1)
 
 
   
