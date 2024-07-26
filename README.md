@@ -117,7 +117,7 @@ We categorize existing works based on their modality, and [applications](#applic
 - 【ACL 2024】Machine Unlearning of Pre-trained Large Language Models [[PDF](https://arxiv.org/pdf/2402.15159.pdf)]  
 - 【202402】EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[PDF](https://arxiv.org/pdf/2402.09801.pdf)]  
 - 【202402】Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination [[PDF](https://arxiv.org/pdf/2402.10052.pdf)]  
-- 【202402】Towards Safer Large Language Models through Machine Unlearning [[PDF](https://arxiv.org/pdf/2402.10058.pdf)]  
+- 【ACL 2024】Towards Safer Large Language Models through Machine Unlearning [[PDF](https://arxiv.org/pdf/2402.10058.pdf)]  
 - 【202402】Rethinking Machine Unlearning for Large Language Models [[PDF](https://arxiv.org/pdf/2402.08787.pdf)]  
 - 【202402】Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models [[PDF](https://arxiv.org/pdf/2402.05813.pdf)] 
 - 【202401】Unlearning Reveals the Influential Training Data of Language Models [[PDF](https://arxiv.org/pdf/2401.15241.pdf)]
