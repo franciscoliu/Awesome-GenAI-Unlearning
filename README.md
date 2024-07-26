@@ -10,10 +10,18 @@ We categorize existing works based on their [approaches](), modality and [applic
 - [Awesome-GenAI-Unlearning ](#awesome-genai-unlearning-)
   - [Table of Contents](#table-of-contents)
   - [Datasets, Benchmarks](#datasets-benchmarks)
+    - [Datasets](#datasets)
+    - [Benchmarks](#benchmarks)
   - [Generative Image Models](#generative-image-models)
   - [Large Language Models (LLMs)](#large-language-models-(LLMs))
   - [Large Multimodal Models (LMMs)](#large-multimodal-models-(LMMs))
   - [Applications](#applications)
+    - [Safety Alignment](#safety-alignment)
+    - [Copyright Protection](#copyright-protection)
+    - [Hallucination Reduction](#hallucination-reductionn)
+    - [Privacy Compliance](#privacy-compliance)
+    - [Bias/Unfairness Alleviation](bias/unfairness-alleviation)
+
 
   
 ## Datasets, Benchmarks:
