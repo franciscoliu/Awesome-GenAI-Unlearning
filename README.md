@@ -13,6 +13,7 @@ We categorize existing works based on their [approaches](), modality and [applic
   - [Generative Image Models](#generative-image-models)
   - [Large Language Models (LLMs)](#large-language-models-(LLMs))
   - [Large Multimodal Models (LMMs)](#large-multimodal-models-(LMMs))
+  - [Applications](#applications)
 
   
 ## Datasets, Benchmarks:
@@ -25,16 +26,16 @@ We categorize existing works based on their [approaches](), modality and [applic
 - **Anthropic red team**
 
 #### Copyrights Protection
-- **Harry Potter**
-- **Bookcorpus**
-- **TOFU** TOFU: A Task of Fictitious Unlearning for LLMs ([code](https://locuslab.github.io/tofu/))
+- **Harry Potter** Copyright issue, cannot be disclosed.
+- **Bookcorpus** [arxiv 1506.06724] Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books ([code](https://huggingface.co/datasets/bookcorpus/bookcorpus))
+- **TOFU** [arxiv 2401.06121] TOFU: A Task of Fictitious Unlearning for LLMs ([code](https://locuslab.github.io/tofu/))
 
 #### Hallucination Reduction 
-- **HaluEVAL**
-- **TruthfulQA**
-- **CounterFact**
-- **ZsRE**
-- **MSCOCO**
+- **HaluEVAL** [EMNLP 2023] HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models ([code](https://github.com/RUCAIBox/HaluEval))
+- **TruthfulQA** [ACL 2023] TruthfulQA: Measuring How Models Mimic Human Falsehoods ([code](https://github.com/sylinrl/TruthfulQA))
+- **CounterFact** [NeurIPS 2022] Locating and Editing Factual Associations in GPT ([code](https://huggingface.co/datasets/azhx/counterfact))
+- **ZsRE** [CoNLL 2017] Zero-Shot Relation Extraction via Reading Comprehension ([code](https://nlp.cs.washington.edu/zeroshot/))
+- **MSCOCO** [1405.0312] Microsoft COCO: Common Objects in Context ([code](https://cocodataset.org/#home))
 
 #### Privacy Compliance
 - **Pile**
@@ -48,10 +49,10 @@ We categorize existing works based on their [approaches](), modality and [applic
 - **I2P**
 
 #### Bias/Unfairness Alleviation
-- **StereoSet**
-- **HateXplain**
-- **CrowS Pairs**
-- **Anthropic red team**
+- **StereoSet** [ACL 2021] StereoSet: Measuring stereotypical bias in pretrained language models ([code](https://github.com/moinnadeem/StereoSet))
+- **HateXplain** [AAAI 2021] HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection ([code](https://github.com/hate-alert/HateXplain))
+- **CrowS Pairs** [EMNLP 2021] CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models ([code](https://github.com/nyu-mll/crows-pairs))
+- **Anthropic red team** [arxiv 2204.05862] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback ([code](https://github.com/anthropics/hh-rlhf))
 
 ### Benchmarks:
 #### Generative Image Models
@@ -81,17 +82,13 @@ We categorize existing works based on their [approaches](), modality and [applic
 ## Applications:
 ### Safety Alignment:
 
-
 ### Copyright Protection:
-
 
 ### Hallucination Reduction:
 
 ### Privacy Compliance:
 
 ### Bias/Unfairness Alleviation:
-
-
 
 
 
