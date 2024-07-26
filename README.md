@@ -63,11 +63,11 @@ We categorize existing works based on their [approaches](), modality and [applic
 
 
 #### LMMs
-- **Object HalBench**
+- **Object HalBench:** [EMNLP 2018]_Object Hallucination in Image Captioning [code](https://github.com/LisaAnne/Hallucination)
 - **MHumanEval**
-- **LLaVA Bench**
-- **WMDP**
-- **POPE**
+- **LLaVA Bench:** [Neurips 2023 (oral)] Visual Instruction Tuning [code](https://github.com/haotian-liu/LLaVA/blob/main/docs/LLaVA_Bench.md)
+- **MMHal-Bench:** Aligning Large Multimodal Models with Factually Augmented RLHF [code](https://huggingface.co/datasets/Shengcao1006/MMHal-Bench)
+- **POPE:** [EMNLP 2023] POPE: Polling-based Object Probing Evaluation for Object Hallucination [code](https://github.com/RUCAIBox/POPE)
 
 ## Generative Image Models:
 
