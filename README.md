@@ -82,26 +82,28 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ## Generative Image Models:
-- [202310] To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now ([PDF](https://arxiv.org/abs/2310.11868), [code](https://github.com/OPTML-Group/Diffusion-MU-Attack))
-- [202312] FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models ([PDF](https://arxiv.org/abs/2312.14895), [code](https://github.com/Subhodip123/weak-unlearning-gan))
-- [202306] Training data attribution for diffusion models ([PDF](https://arxiv.org/abs/2306.02174), [code](https://github.com/zheng-dai/GenEns))
-- [202303] Forget-me-not: Learning to forget in text-to-image diffusion models ([PDF](https://arxiv.org/abs/2303.17591), [code](https://github.com/SHI-Labs/Forget-Me-Not))
 - [202401] Erasediff: Erasing data influence in diffusion models ([PDF](https://arxiv.org/abs/2401.05779))
-- [202303] Erasing Concepts from Diffusion Models ([PDF](https://arxiv.org/abs/2303.07345), [code](https://github.com/rohitgandikota/erasing))
 - [ICLR 2024] Machine Unlearning for Image-to-Image Generative Models ([PDF](https://arxiv.org/abs/2402.00351), [code](https://github.com/jpmorganchase/l2l-generator-unlearning))
 - [ICLR 2024] SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation ([PDF](https://arxiv.org/abs/2310.12508), [code](https://github.com/OPTML-Group/Unlearn-Saliency))
 - [ICCV 2023] Ablating Concepts in Text-to-Image Diffusion Models ([PDF](https://arxiv.org/abs/2303.13516), [code](https://github.com/nupurkmr9/concept-ablation))
+- [202312] FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models ([PDF](https://arxiv.org/abs/2312.14895), [code](https://github.com/Subhodip123/weak-unlearning-gan))
 - [202311] Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers ([PDF](https://arxiv.org/abs/2311.17717))
-- [202305] Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models ([PDF](https://arxiv.org/abs/2305.10120), [code](https://github.com/clear-nus/selectiveamnesia))
-- [202308] Generative Adversarial Networks Unlearning ([PDF](https://arxiv.org/abs/2308.09881))
-- [202309] Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks ([PDF](https://arxiv.org/abs/2309.14054))
 - [202310] Feature Unlearning for Pre-trained GANs and VAEs ([PDF](https://arxiv.org/abs/2303.05699))
+- [202310] To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now ([PDF](https://arxiv.org/abs/2310.11868), [code](https://github.com/OPTML-Group/Diffusion-MU-Attack))
+- [202309] Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks ([PDF](https://arxiv.org/abs/2309.14054))
+- [202308] Generative Adversarial Networks Unlearning ([PDF](https://arxiv.org/abs/2308.09881))
+- [202306] Training data attribution for diffusion models ([PDF](https://arxiv.org/abs/2306.02174), [code](https://github.com/zheng-dai/GenEns))
+- [202305] Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models ([PDF](https://arxiv.org/abs/2305.10120), [code](https://github.com/clear-nus/selectiveamnesia))
+- [202303] Erasing Concepts from Diffusion Models ([PDF](https://arxiv.org/abs/2303.07345), [code](https://github.com/rohitgandikota/erasing))
+- [202303] Forget-me-not: Learning to forget in text-to-image diffusion models ([PDF](https://arxiv.org/abs/2303.17591), [code](https://github.com/SHI-Labs/Forget-Me-Not))
+
 
 ## Large Language Models (LLMs):
-- 【202406】REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space [[PDF](https://arxiv.org/abs/2406.09325)]
-- 【202406】Avoiding Copyright Infringement via Machine Unlearning ([code](https://github.com/guangyaodou/SSU/tree/main))
+- 【202406】REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space [[PDF](https://arxiv.org/abs/2406.09325), [code](https://technion-cs-nlp.github.io/REVS/)]
+- 【202406】Soft Prompting for Unlearning in Large Language Models ([PDF](https://arxiv.org/abs/2406.12038), [code](https://github.com/karuna-bhaila/llm_unlearning))
+- 【202406】Avoiding Copyright Infringement via Machine Unlearning ([PDF](https://arxiv.org/abs/2406.10952), [code](https://github.com/guangyaodou/SSU/tree/main))
 - 【202405】Cross-Modal Safety Alignment: Is textual unlearning all you need? [[PDF](https://arxiv.org/abs/2406.02575)]
-- 【202405】Large Scale Knowledge Washing [[PDF](https://arxiv.org/abs/2405.16720)]
+- 【202405】Large Scale Knowledge Washing [[PDF](https://arxiv.org/abs/2405.16720), [code](https://github.com/wangyu-ustc/LargeScaleWashing)]
 - 【202405】Machine Unlearning in Large Language Models [[PDF](https://arxiv.org/pdf/2405.15152)]
 - 【202404】Offset Unlearning for Large Language Models [[PDF](https://arxiv.org/pdf/2404.11045.pdf)] 
 - 【202404】Exact and Efficient Unlearning for Large Language Model-based Recommendation [[PDF](https://arxiv.org/pdf/2404.10327.pdf)] 
@@ -128,20 +130,20 @@ We categorize existing works based on their modality, and [applications](#applic
 - 【202311】Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models [[PDF](https://arxiv.org/pdf/2311.08011v1.pdf)] 
 - 【202311】Making Harmful Behaviors Unlearnable for Large Language Models  [[PDF](https://arxiv.org/pdf/2311.02105v1.pdf)] 
 - 【EMNLP 2023】Unlearn What You Want to Forget: Efficient Unlearning for LLMs [[PDF](https://arxiv.org/pdf/2310.20150v1.pdf)] 
-- 【202310】Large Language Model Unlearning
-- 【202310】In-Context Unlearning: Language Models as Few Shot Unlearners
-- 【202310】Who’s Harry Potter? Approximate Unlearning in LLMs
-- 【202309】Neural Code Completion Tools Can Memorize Hard-coded Credentials
-- 【202308】Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operatio
-- 【202307】Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data
-- 【202307】What can we learn from Data Leakage and Unlearning for Law?
-- 【202305】Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions
-- 【202302】Knowledge Unlearning for Mitigating Privacy Risks in Language Models
-- 【ACL2023】Unlearning Bias in Language Models by Partitioning Gradients
-- 【202212】Privacy Adhering Machine Un-learning in NLP
-- 【NeurIPS 2022】Quark: Controllable Text Generation with Reinforced Unlearning
-- 【ACL 2022】Knowledge Neurons in Pretrained Transformers
-- 【CCS 2020】Analyzing Information Leakage of Updates to Natural Language Models
+- 【202310】Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2310.10683), [code](https://github.com/kevinyaobytedance/llm_unlearn))
+- 【202310】In-Context Unlearning: Language Models as Few Shot Unlearners ([PDF](https://arxiv.org/abs/2310.07579), [code](https://github.com/MartinPawel/In-Context-Unlearning))
+- 【202310】Who’s Harry Potter? Approximate Unlearning in LLMs ([PDF](https://arxiv.org/abs/2310.02238))
+- 【202309】Neural Code Completion Tools Can Memorize Hard-coded Credentials ([PDF](https://arxiv.org/pdf/2309.07639), [code](https://github.com/HCR-Repo/HCR))
+- 【202308】Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation ([PDF](https://arxiv.org/abs/2308.08090), [code](https://github.com/HITsz-TMG/Ext-Sub))
+- 【202307】Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data ([PDF](https://arxiv.org/abs/2307.00456))
+- 【202307】What can we learn from Data Leakage and Unlearning for Law? ([PDF](https://arxiv.org/abs/2307.10476))
+- 【202305】Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions ([PDF](https://arxiv.org/abs/2307.03941))
+- 【202302】Knowledge Unlearning for Mitigating Privacy Risks in Language Models ([PDF](https://arxiv.org/abs/2210.01504), [code](https://github.com/joeljang/knowledge-unlearning))
+- 【ACL2023】Unlearning Bias in Language Models by Partitioning Gradients ([PDF](https://aclanthology.org/2023.findings-acl.375.pdf), [code](https://github.com/CharlesYu2000/PCGU-UnlearningBias))
+- 【202212】Privacy Adhering Machine Un-learning in NLP ([PDF](https://arxiv.org/abs/2212.09573))
+- 【NeurIPS 2022】Quark: Controllable Text Generation with Reinforced Unlearning ([PDF](https://arxiv.org/abs/2205.13636))
+- 【ACL 2022】Knowledge Neurons in Pretrained Transformers ([PDF](https://arxiv.org/abs/2104.08696), [code](https://github.com/Hunter-DDM/knowledge-neurons))
+- 【CCS 2020】Analyzing Information Leakage of Updates to Natural Language Models ([PDF](https://arxiv.org/abs/1912.07942))
 
 
 ## Large Multimodal Models (LMMs):
