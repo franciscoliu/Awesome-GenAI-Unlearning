@@ -168,18 +168,18 @@ We categorize existing works based on their modality, and [applications](#applic
 - 【202310】Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2310.10683), [code](https://github.com/kevinyaobytedance/llm_unlearn))
 - 【202404】Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge [[PDF](https://arxiv.org/pdf/2404.05880.pdf)]
 - 【202401】Unlearning Reveals the Influential Training Data of Language Models [[PDF](https://arxiv.org/pdf/2401.15241.pdf)]
-- [ICLR 2024] SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation ([PDF](https://arxiv.org/abs/2310.12508), [code](https://github.com/OPTML-Group/Unlearn-Saliency))
-- [202305] Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models ([PDF](https://arxiv.org/abs/2305.10120), [code](https://github.com/clear-nus/selectiveamnesia))
-- [202401] Erasediff: Erasing data influence in diffusion models ([PDF](https://arxiv.org/abs/2401.05779))
-- [202303] Erasing Concepts from Diffusion Models ([PDF](https://arxiv.org/abs/2303.07345), [code](https://github.com/rohitgandikota/erasing))
+- 【ICLR 2024】 SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation ([PDF](https://arxiv.org/abs/2310.12508), [code](https://github.com/OPTML-Group/Unlearn-Saliency))
+- 【202305】 Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models ([PDF](https://arxiv.org/abs/2305.10120), [code](https://github.com/clear-nus/selectiveamnesia))
+- 【202401】 Erasediff: Erasing data influence in diffusion models ([PDF](https://arxiv.org/abs/2401.05779))
+- 【202303】 Erasing Concepts from Diffusion Models ([PDF](https://arxiv.org/abs/2303.07345), [code](https://github.com/rohitgandikota/erasing))
 - 【202312】Learning and Forgetting Unsafe Examples in Large Language Models [[PDF](https://arxiv.org/pdf/2312.12736v1.pdf)]
-- [202311] Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers ([PDF](https://arxiv.org/abs/2311.17717))
+- 【202311】 Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers ([PDF](https://arxiv.org/abs/2311.17717))
 - 【EMNLP 2023】Unlearn What You Want to Forget: Efficient Unlearning for LLMs [[PDF](https://arxiv.org/pdf/2310.20150v1.pdf)]
 - 【ACL 2024】Towards Safer Large Language Models through Machine Unlearning [[PDF](https://arxiv.org/pdf/2402.10058.pdf), [code](https://github.com/franciscoliu/SKU/tree/main)]
 - 【NeurIPS 2022】Editing Models with Task Arithmetic ([PDF](https://arxiv.org/abs/2212.04089), [code](https://github.com/mlfoundations/task_vectors))
 - 【202308】Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation ([PDF](https://arxiv.org/abs/2308.08090), [code](https://github.com/HITsz-TMG/Ext-Sub))
 - 【202306】Composing Parameter-Efficient Modules with Arithmetic Operations ([PDF](https://arxiv.org/abs/2306.14870))
-- [202309] Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks ([PDF](https://arxiv.org/abs/2309.14054))
+- 【202309】 Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks ([PDF](https://arxiv.org/abs/2309.14054))
 
 
 
