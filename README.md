@@ -182,8 +182,13 @@ We categorize existing works based on their modality, and [applications](#applic
 - 【202309】 Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks ([PDF](https://arxiv.org/abs/2309.14054))
 
 
-
 ### Copyright Protection:
+- 【202406】Avoiding Copyright Infringement via Machine Unlearning ([PDF](https://arxiv.org/abs/2406.10952), [code](https://github.com/guangyaodou/SSU/tree/main))
+- 【202302】Knowledge Unlearning for Mitigating Privacy Risks in Language Models ([PDF](https://arxiv.org/abs/2210.01504), [code](https://github.com/joeljang/knowledge-unlearning))
+- 【202310】Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2310.10683), [code](https://github.com/kevinyaobytedance/llm_unlearn))
+- 【202310】Who’s Harry Potter? Approximate Unlearning in LLMs ([PDF](https://arxiv.org/abs/2310.02238))
+- 【202303】Forget-me-not: Learning to forget in text-to-image diffusion models ([PDF](https://arxiv.org/abs/2303.17591), [code](https://github.com/SHI-Labs/Forget-Me-Not))
+
 
 ### Hallucination Reduction:
 
