@@ -231,6 +231,9 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ### Bias/Unfairness Alleviation:
+- 【ACL2023】Unlearning Bias in Language Models by Partitioning Gradients ([PDF](https://aclanthology.org/2023.findings-acl.375.pdf), [code](https://github.com/CharlesYu2000/PCGU-UnlearningBias))
+- 【202401】Unlearning Reveals the Influential Training Data of Language Models [[PDF](https://arxiv.org/pdf/2401.15241.pdf)]
+- 【NeurIPS2023 Workshop】FAIRSISA: ENSEMBLE POST-PROCESSING TO IMPROVE FAIRNESS OF UNLEARNING IN LLMS [[PDF](https://arxiv.org/pdf/2312.07420v1.pdf)]
 
 
 
