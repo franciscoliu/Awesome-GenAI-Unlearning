@@ -114,7 +114,8 @@ We categorize existing works based on their modality, and [applications](#applic
 - 【202404】Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning [[PDF](https://arxiv.org/pdf/2404.05868.pdf)] 
 - 【202404】Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge [[PDF](https://arxiv.org/pdf/2404.05880.pdf)] 
 - 【202404】Digital Forgetting in Large Language Models: A Survey of Unlearning Methods [[PDF](https://arxiv.org/pdf/2404.02062.pdf)] 
-- 【202403】The Frontier of Data Erasure: Machine Unlearning for Large Language Models [[PDF](https://arxiv.org/pdf/2403.15779.pdf)] 
+- 【202403】The Frontier of Data Erasure: Machine Unlearning for Large Language Models [[PDF](https://arxiv.org/pdf/2403.15779.pdf)]
+- 【ICML 2024】Larimar: Large Language Models with Episodic Memory Control. ([PDF](https://arxiv.org/abs/2403.11901), [code](https://github.com/IBM/larimar))
 - 【202403】Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models [[PDF](https://arxiv.org/pdf/2403.10557.pdf)]
 - [202403] Dissecting Language Models: Machine Unlearning via Selective Pruning ([PDF](https://arxiv.org/abs/2403.01267), [code](https://github.com/nickypro/selective-pruning))
 - 【202403】Guardrail Baselines for Unlearning in LLMs [[PDF](https://arxiv.org/pdf/2403.03329.pdf)] 
@@ -191,6 +192,14 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ### Hallucination Reduction:
+- 【202310】Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2310.10683), [code](https://github.com/kevinyaobytedance/llm_unlearn))
+- 【202311】 MultiDelete for Multimodal Machine Unlearning ([PDF](https://arxiv.org/abs/2311.12047))
+- 【202401】Unlearning Reveals the Influential Training Data of Language Models [[PDF](https://arxiv.org/pdf/2401.15241.pdf)]
+- 【202402】 EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models ([PDF](https://arxiv.org/pdf/2402.09801))
+- 【202405】Large Scale Knowledge Washing [[PDF](https://arxiv.org/abs/2405.16720), [code](https://github.com/wangyu-ustc/LargeScaleWashing)]
+- 【202308】Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation ([PDF](https://arxiv.org/abs/2308.08090), [code](https://github.com/HITsz-TMG/Ext-Sub))
+- 【ICML 2024】Larimar: Large Language Models with Episodic Memory Control. ([PDF](https://arxiv.org/abs/2403.11901), [code](https://github.com/IBM/larimar))
+
 
 ### Privacy Compliance:
 
