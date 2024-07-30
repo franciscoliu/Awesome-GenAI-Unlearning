@@ -129,7 +129,8 @@ We categorize existing works based on their modality, and [applications](#applic
 - 【202311】Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges [[PDF](https://arxiv.org/ftp/arxiv/papers/2311/2311.15766.pdf)] 
 - 【202311】Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models [[PDF](https://arxiv.org/pdf/2311.08011v1.pdf)] 
 - 【202311】Making Harmful Behaviors Unlearnable for Large Language Models  [[PDF](https://arxiv.org/pdf/2311.02105v1.pdf)] 
-- 【EMNLP 2023】Unlearn What You Want to Forget: Efficient Unlearning for LLMs [[PDF](https://arxiv.org/pdf/2310.20150v1.pdf)] 
+- 【EMNLP 2023】Unlearn What You Want to Forget: Efficient Unlearning for LLMs [[PDF](https://arxiv.org/pdf/2310.20150v1.pdf)]
+- 【202310】DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models ([PDF](https://arxiv.org/abs/2310.20138))
 - 【202310】Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2310.10683), [code](https://github.com/kevinyaobytedance/llm_unlearn))
 - 【202310】In-Context Unlearning: Language Models as Few Shot Unlearners ([PDF](https://arxiv.org/abs/2310.07579), [code](https://github.com/MartinPawel/In-Context-Unlearning))
 - 【202310】Who’s Harry Potter? Approximate Unlearning in LLMs ([PDF](https://arxiv.org/abs/2310.02238))
@@ -137,17 +138,25 @@ We categorize existing works based on their modality, and [applications](#applic
 - 【202308】Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation ([PDF](https://arxiv.org/abs/2308.08090), [code](https://github.com/HITsz-TMG/Ext-Sub))
 - 【202307】Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data ([PDF](https://arxiv.org/abs/2307.00456))
 - 【202307】What can we learn from Data Leakage and Unlearning for Law? ([PDF](https://arxiv.org/abs/2307.10476))
+- 【202306】Composing Parameter-Efficient Modules with Arithmetic Operations ([PDF](https://arxiv.org/abs/2306.14870))
+- 【202305】KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment ([PDF](https://arxiv.org/abs/2305.06535))
 - 【202305】Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions ([PDF](https://arxiv.org/abs/2307.03941))
 - 【202302】Knowledge Unlearning for Mitigating Privacy Risks in Language Models ([PDF](https://arxiv.org/abs/2210.01504), [code](https://github.com/joeljang/knowledge-unlearning))
 - 【ACL2023】Unlearning Bias in Language Models by Partitioning Gradients ([PDF](https://aclanthology.org/2023.findings-acl.375.pdf), [code](https://github.com/CharlesYu2000/PCGU-UnlearningBias))
 - 【202212】Privacy Adhering Machine Un-learning in NLP ([PDF](https://arxiv.org/abs/2212.09573))
 - 【NeurIPS 2022】Quark: Controllable Text Generation with Reinforced Unlearning ([PDF](https://arxiv.org/abs/2205.13636))
 - 【ACL 2022】Knowledge Neurons in Pretrained Transformers ([PDF](https://arxiv.org/abs/2104.08696), [code](https://github.com/Hunter-DDM/knowledge-neurons))
+- 【NeurIPS 2022】Editing Models with Task Arithmetic ([PDF](https://arxiv.org/abs/2212.04089), [code](https://github.com/mlfoundations/task_vectors))
 - 【CCS 2020】Analyzing Information Leakage of Updates to Natural Language Models ([PDF](https://arxiv.org/abs/1912.07942))
 
 
 ## Large Multimodal Models (LMMs):
-
+- [202406] MU-Bench: A Multitask Multimodal Benchmark for Machine Unlearning ([PDF](https://arxiv.org/pdf/2406.14796v1), [code](https://github.com/CLU-UML/MU-Bench))
+- [202405] Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models ([PDF](https://arxiv.org/abs/2405.12523))
+- [202403] Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning ([PDF](https://arxiv.org/pdf/2403.16257v1))
+- [202402] EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models ([PDF](https://arxiv.org/pdf/2402.09801))
+- [202311] MultiDelete for Multimodal Machine Unlearning ([PDF](https://arxiv.org/abs/2311.12047))
+ 
 
 ## Applications:
 ### Safety Alignment:
