@@ -24,6 +24,7 @@ We categorize existing works based on their modality, and [applications](#applic
     - [Hallucination Reduction](#hallucination-reduction-1)
     - [Privacy Compliance](#privacy-compliance-1)
     - [Bias/Unfairness Alleviation](#biasunfairness-alleviation-1)
+  - [Other Surveys](#other-surveys)
 
 
   
