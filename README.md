@@ -236,6 +236,15 @@ We categorize existing works based on their modality, and [applications](#applic
 - 【NeurIPS2023 Workshop】FAIRSISA: ENSEMBLE POST-PROCESSING TO IMPROVE FAIRNESS OF UNLEARNING IN LLMS [[PDF](https://arxiv.org/pdf/2312.07420v1.pdf)]
 
 
+### Other Surveys:
+- Eight Methods to Evaluate Robust Unlearning in LLMs ([PDF](https://arxiv.org/abs/2402.16835))
+- Rethinking Machine Unlearning for Large Language Models. ([PDF](https://arxiv.org/abs/2402.08787))
+- Digital Forgetting in Large Language Models: A Survey of Unlearning Methods. ([PDF](https://arxiv.org/abs/2404.02062))
+- Knowledge unlearning for llms: Tasks, methods, and challenges. ([PDF](https://arxiv.org/abs/2311.15766))
+- Copyright Protection in Generative AI: A Technical Perspective. ([PDF](https://arxiv.org/abs/2402.02333))
+- Machine Unlearning for Traditional Models and Large Language Models: A Short Survey. ([PDF](https://arxiv.org/abs/2404.01206))
+- Right to be forgotten in the era of large language models: Implications, challenges, and solutions. ([PDF](https://arxiv.org/abs/2307.03941))
+- Threats, attacks, and defenses in machine unlearning: A survey. ([PDF](https://arxiv.org/abs/2403.13682))
 
 
 ## Contributing:
