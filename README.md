@@ -29,6 +29,10 @@ We categorize existing works based on their modality, and [applications](#applic
   
 ## Datasets, Benchmarks:
 
+<div  align="center">    
+<img src="./asset/genai_demo.png" width="100%" height="70%">
+</div>
+
 ### Datasets:
 #### Safety Alignment
 - **LAION** LAION-400-MILLION OPEN DATASET ([code](https://laion.ai/blog/laion-400-open-dataset/))
