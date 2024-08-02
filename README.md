@@ -104,6 +104,7 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ## Large Language Models (LLMs):
+- 【202406】Large Language Model Unlearning via Embedding-Corrupted Prompts [[PDF](https://arxiv.org/abs/2406.07933), [code](https://github.com/chrisliu298/llm-unlearn-eco/)]
 - 【202406】REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space [[PDF](https://arxiv.org/abs/2406.09325), [code](https://technion-cs-nlp.github.io/REVS/)]
 - 【202406】Soft Prompting for Unlearning in Large Language Models ([PDF](https://arxiv.org/abs/2406.12038), [code](https://github.com/karuna-bhaila/llm_unlearning))
 - 【202406】Avoiding Copyright Infringement via Machine Unlearning ([PDF](https://arxiv.org/abs/2406.10952), [code](https://github.com/guangyaodou/SSU/tree/main))
