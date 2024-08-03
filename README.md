@@ -104,6 +104,7 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ## Large Language Models (LLMs):
+- 【202407】Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks [[PDF](https://arxiv.org/abs/2407.02855), [code](https://github.com/thu-coai/SafeUnlearning)]
 - 【202406】Large Language Model Unlearning via Embedding-Corrupted Prompts [[PDF](https://arxiv.org/abs/2406.07933), [code](https://github.com/chrisliu298/llm-unlearn-eco/)]
 - 【202406】REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space [[PDF](https://arxiv.org/abs/2406.09325), [code](https://technion-cs-nlp.github.io/REVS/)]
 - 【202406】Soft Prompting for Unlearning in Large Language Models ([PDF](https://arxiv.org/abs/2406.12038), [code](https://github.com/karuna-bhaila/llm_unlearning))
@@ -122,7 +123,8 @@ We categorize existing works based on their modality, and [applications](#applic
 - [202403] Dissecting Language Models: Machine Unlearning via Selective Pruning ([PDF](https://arxiv.org/abs/2403.01267), [code](https://github.com/nickypro/selective-pruning))
 - 【202403】Guardrail Baselines for Unlearning in LLMs [[PDF](https://arxiv.org/pdf/2403.03329.pdf)] 
 - 【202403】Towards Efficient and Effective Unlearning of Large Language Models for Recommendation [[PDF](https://arxiv.org/pdf/2403.03536.pdf)] 
-- 【202403】The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning [[PDF](https://arxiv.org/pdf/2403.03218.pdf)] 
+- 【202403】The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning [[PDF](https://arxiv.org/pdf/2403.03218.pdf)]
+- 【202402】Deciphering the Impact of Pretraining Data on Large Language Models through Machine Unlearning ([PDF](https://arxiv.org/abs/2402.11537))
 - 【202402】Eight Methods to Evaluate Robust Unlearning in LLMs [[PDF](https://arxiv.org/pdf/2402.16835.pdf)]  
 - 【ACL 2024】Machine Unlearning of Pre-trained Large Language Models [[PDF](https://arxiv.org/pdf/2402.15159.pdf)]  
 - 【202402】EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[PDF](https://arxiv.org/pdf/2402.09801.pdf)]  
