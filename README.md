@@ -249,6 +249,7 @@ We categorize existing works based on their modality, and [applications](#applic
 - Machine Unlearning for Traditional Models and Large Language Models: A Short Survey. ([PDF](https://arxiv.org/abs/2404.01206))
 - Right to be forgotten in the era of large language models: Implications, challenges, and solutions. ([PDF](https://arxiv.org/abs/2307.03941))
 - Threats, attacks, and defenses in machine unlearning: A survey. ([PDF](https://arxiv.org/abs/2403.13682))
+- On the Limitations and Prospects of Machine Unlearning for Generative AI ([PDF](https://arxiv.org/pdf/2408.00376))
 
 
 ## Contributing:
