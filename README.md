@@ -104,6 +104,9 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ## Large Language Models (LLMs):
+- 【202408】On Effects of Steering Latent Representation for Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2408.06223))
+- 【202408】Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models ([PDF](https://arxiv.org/pdf/2408.06621))
+- 【202407】Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation ([PDF](https://arxiv.org/pdf/2407.16951))
 - 【202407】Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks [[PDF](https://arxiv.org/abs/2407.02855), [code](https://github.com/thu-coai/SafeUnlearning)]
 - 【202406】Large Language Model Unlearning via Embedding-Corrupted Prompts [[PDF](https://arxiv.org/abs/2406.07933), [code](https://github.com/chrisliu298/llm-unlearn-eco/)]
 - 【202406】REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space [[PDF](https://arxiv.org/abs/2406.09325), [code](https://technion-cs-nlp.github.io/REVS/)]
