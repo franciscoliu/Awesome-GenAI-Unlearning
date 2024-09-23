@@ -89,6 +89,7 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ## Generative Image Models:
+- [202409] Enhancing User-Centric Privacy Protection: An Interactive Framework through Diffusion Models and Machine Unlearning ([PDF](https://arxiv.org/abs/2409.03326))
 - [202401] Erasediff: Erasing data influence in diffusion models ([PDF](https://arxiv.org/abs/2401.05779))
 - [ICLR 2024] Machine Unlearning for Image-to-Image Generative Models ([PDF](https://arxiv.org/abs/2402.00351), [code](https://github.com/jpmorganchase/l2l-generator-unlearning))
 - [ICLR 2024] SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation ([PDF](https://arxiv.org/abs/2310.12508), [code](https://github.com/OPTML-Group/Unlearn-Saliency))
