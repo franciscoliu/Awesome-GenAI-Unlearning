@@ -107,6 +107,7 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ## Large Language Models (LLMs):
+- 【202408】Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage ([PDF](https://arxiv.org/pdf/2408.17354))
 - 【202408】On Effects of Steering Latent Representation for Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2408.06223))
 - 【202408】Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models ([PDF](https://arxiv.org/pdf/2408.06621))
 - 【202407】Practical Unlearning for Large Language Models ([PDF](https://arxiv.org/pdf/2407.10223))
