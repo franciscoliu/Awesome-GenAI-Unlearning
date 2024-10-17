@@ -108,9 +108,11 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ## Large Language Models (LLMs):
+- 【202410】Position: LLM Unlearning Benchmarks are Weak Measures of Progress ([PDF](https://arxiv.org/abs/2410.02879))
 - 【202410】Erasing Conceptual Knowledge from Language Models ([PDF](https://arxiv.org/abs/2410.02760), [Code](https://elm.baulab.info/))
 - 【202410】Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning ([PDF](https://arxiv.org/pdf/2410.07163), [Code](https://github.com/OPTML-Group/Unlearn-Simple))
 - 【202410】A Closer Look at Machine Unlearning for Large Language Models ([PDF](https://arxiv.org/abs/2410.08109), [Code](https://github.com/sail-sg/closer-look-LLM-unlearning))
+- 【202409】LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models ([PDF](https://arxiv.org/abs/2409.13054))
 - 【202409】An Adversarial Perspective on Machine Unlearning for AI Safety ([PDF](https://arxiv.org/abs/2409.18025))
 - 【202408】Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage ([PDF](https://arxiv.org/pdf/2408.17354))
 - 【202408】On Effects of Steering Latent Representation for Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2408.06223))
