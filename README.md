@@ -91,6 +91,7 @@ We categorize existing works based on their modality, and [applications](#applic
 ## Generative Image Models:
 - [202410] Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts ([PDF](https://arxiv.org/pdf/2410.12777), [code](https://github.com/sail-sg/Meta-Unlearning))
 - [202409] Enhancing User-Centric Privacy Protection: An Interactive Framework through Diffusion Models and Machine Unlearning ([PDF](https://arxiv.org/abs/2409.03326))
+- - [202407] Unlearning Concepts from Text-to-Video Diffusion Models ([PDF](https://arxiv.org/pdf/2407.14209))
 - [202401] Erasediff: Erasing data influence in diffusion models ([PDF](https://arxiv.org/abs/2401.05779))
 - [ICLR 2024] Machine Unlearning for Image-to-Image Generative Models ([PDF](https://arxiv.org/abs/2402.00351), [code](https://github.com/jpmorganchase/l2l-generator-unlearning))
 - [ICLR 2024] SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation ([PDF](https://arxiv.org/abs/2310.12508), [code](https://github.com/OPTML-Group/Unlearn-Saliency))
@@ -179,6 +180,9 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ## Large Multimodal Models (LMMs):
+- 【202410】NegMerge: Consensual Weight Negation for Strong Machine Unlearning ([PDF](https://arxiv.org/pdf/2410.05583), [code](https://github.com/naver-ai/negmerge))
+- 【202407】Direct Unlearning Optimization for Robust and Safe Text-to-Image Models ([PDF](https://arxiv.org/pdf/2407.21035))
+- 【202406】Alignment Calibration: Machine Unlearning for Contrastive Learning under Auditing ([PDF](https://arxiv.org/pdf/2406.03603))
 - 【202406】MU-Bench: A Multitask Multimodal Benchmark for Machine Unlearning ([PDF](https://arxiv.org/pdf/2406.14796v1), [code](https://github.com/CLU-UML/MU-Bench))
 - 【202405】Cross-Modal Safety Alignment: Is textual unlearning all you need? [[PDF](https://arxiv.org/abs/2406.02575)]
 - 【202405】Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models ([PDF](https://arxiv.org/abs/2405.12523))
