@@ -76,9 +76,12 @@ We categorize existing works based on their modality, and [applications](#applic
 #### LLMs
 - **TOFU** [arxiv 2401.06121] TOFU: A Task of Fictitious Unlearning for LLMs ([code](https://locuslab.github.io/tofu/))
 - **WMDP** [arxiv 2403.03218] The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning ([code](https://www.wmdp.ai/))
+- **MUSE** [arxiv 2407.06460] MUSE: Machine Unlearning Six-Way Evaluation for Language Models ([code](https://github.com/swj0419/muse_bench))
 
 
 #### LMMs
+- **MLLMU-Bench** [arxiv 2410.22108] Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench ([code](https://github.com/franciscoliu/MLLMU-Bench))
+- **CLEAR** [arXiv:2410.18057] CLEAR: Character Unlearning in Textual and Visual Modalities ([code](https://github.com/somvy/multimodal_unlearning))
 - **Object HalBench:** [EMNLP 2018] Object Hallucination in Image Captioning ([code](https://github.com/LisaAnne/Hallucination))
 - **MMUBench:**【202405】Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models ([PDF](https://arxiv.org/abs/2405.12523))
 - **MHumanEval:** [CVPR'24] RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback ([code](https://github.com/RLHF-V/RLHF-V))
