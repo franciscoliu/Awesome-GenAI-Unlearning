@@ -80,8 +80,9 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 #### LMMs
-- **MLLMU-Bench** [arxiv 2410.22108] Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench ([code](https://github.com/franciscoliu/MLLMU-Bench))
-- **CLEAR** [arXiv:2410.18057] CLEAR: Character Unlearning in Textual and Visual Modalities ([code](https://github.com/somvy/multimodal_unlearning))
+- **FIU-Bench:** Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset ([code](https://huggingface.co/datasets/gray311/FIUBench))
+- **MLLMU-Bench:** [arxiv 2410.22108] Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench ([code](https://github.com/franciscoliu/MLLMU-Bench))
+- **CLEAR:** [arXiv:2410.18057] CLEAR: Character Unlearning in Textual and Visual Modalities ([code](https://github.com/somvy/multimodal_unlearning))
 - **Object HalBench:** [EMNLP 2018] Object Hallucination in Image Captioning ([code](https://github.com/LisaAnne/Hallucination))
 - **MMUBench:**【202405】Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models ([PDF](https://arxiv.org/abs/2405.12523))
 - **MHumanEval:** [CVPR'24] RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback ([code](https://github.com/RLHF-V/RLHF-V))
@@ -112,6 +113,9 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ## Large Language Models (LLMs):
+- 【ICLR 2025】A Probalisitic Perspective On Unlearning And Alignment For Large Language Models ([PDF](https://arxiv.org/pdf/2410.03523))
+- 【AAAI 2025】Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models ([PDF](https://arxiv.org/abs/2501.03272))
+- 【202411】Towards Robust Evaluation of Unlearning in LLMs via Data Transformations ([PDF](https://arxiv.org/pdf/2411.15477))
 - 【202410】Position: LLM Unlearning Benchmarks are Weak Measures of Progress ([PDF](https://arxiv.org/abs/2410.02879))
 - 【202410】Erasing Conceptual Knowledge from Language Models ([PDF](https://arxiv.org/abs/2410.02760), [Code](https://elm.baulab.info/))
 - 【202410】Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning ([PDF](https://arxiv.org/pdf/2410.07163), [Code](https://github.com/OPTML-Group/Unlearn-Simple))
@@ -125,6 +129,7 @@ We categorize existing works based on their modality, and [applications](#applic
 - 【202407】Practical Unlearning for Large Language Models ([PDF](https://arxiv.org/pdf/2407.10223))
 - 【202407】Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation ([PDF](https://arxiv.org/pdf/2407.16951))
 - 【202407】Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks [[PDF](https://arxiv.org/abs/2407.02855), [code](https://github.com/thu-coai/SafeUnlearning)]
+- 【202406】Towards Reliable Empirical Machine Unlearning Evaluation: A Game-Theoretic View ([PDF](https://arxiv.org/pdf/2404.11577))
 - 【202406】SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning ([PDF](https://arxiv.org/pdf/2404.18239), [code](https://github.com/OPTML-Group/SOUL))
 - 【202406】Large Language Model Unlearning via Embedding-Corrupted Prompts [[PDF](https://arxiv.org/abs/2406.07933), [code](https://github.com/chrisliu298/llm-unlearn-eco/)]
 - 【202406】REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space [[PDF](https://arxiv.org/abs/2406.09325), [code](https://technion-cs-nlp.github.io/REVS/)]
@@ -265,6 +270,7 @@ We categorize existing works based on their modality, and [applications](#applic
 
 
 ### Other Surveys:
+- Machine Unlearning Doesn’t Do What You Think: Lessons for Generative AI Policy, Research, and Practice ([PDF](https://arxiv.org/pdf/2412.06966))
 - Eight Methods to Evaluate Robust Unlearning in LLMs ([PDF](https://arxiv.org/abs/2402.16835))
 - Rethinking Machine Unlearning for Large Language Models. ([PDF](https://arxiv.org/abs/2402.08787))
 - Digital Forgetting in Large Language Models: A Survey of Unlearning Methods. ([PDF](https://arxiv.org/abs/2404.02062))
