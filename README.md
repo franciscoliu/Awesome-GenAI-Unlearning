@@ -12,19 +12,28 @@ We categorize existing works based on their modality, and [applications](#applic
 ## Table of Contents
 - [Awesome-GenAI-Unlearning](#awesome-genai-unlearning)
   - [Table of Contents](#table-of-contents)
-  - [Datasets, Benchmarks](#datasets-benchmarks)
-    - [Datasets](#datasets)
-    - [Benchmarks](#benchmarks)
-  - [Generative Image Models](#generative-image-models)
-  - [Large Language Models (LLMs)](#large-language-models-llms)
-  - [Large Multimodal Models (LMMs)](#large-multimodal-models-lmms)
-  - [Applications](#applications)
-    - [Safety Alignment](#safety-alignment-1)
-    - [Copyright Protection](#copyright-protection-1)
-    - [Hallucination Reduction](#hallucination-reduction-1)
-    - [Privacy Compliance](#privacy-compliance-1)
-    - [Bias/Unfairness Alleviation](#biasunfairness-alleviation-1)
-  - [Other Surveys](#other-surveys)
+  - [Datasets, Benchmarks:](#datasets-benchmarks)
+    - [Datasets:](#datasets)
+      - [Safety Alignment](#safety-alignment)
+      - [Copyrights Protection](#copyrights-protection)
+      - [Hallucination Reduction](#hallucination-reduction)
+      - [Privacy Compliance](#privacy-compliance)
+      - [Bias/Unfairness Alleviation](#biasunfairness-alleviation)
+    - [Benchmarks:](#benchmarks)
+      - [Generative Image Models](#generative-image-models)
+      - [LLMs](#llms)
+      - [LMMs](#lmms)
+  - [Generative Image Models:](#generative-image-models-1)
+  - [Large Language Models (LLMs):](#large-language-models-llms)
+  - [Large Multimodal Models (LMMs):](#large-multimodal-models-lmms)
+  - [Applications:](#applications)
+    - [Safety Alignment:](#safety-alignment-1)
+    - [Copyright Protection:](#copyright-protection)
+    - [Hallucination Reduction:](#hallucination-reduction-1)
+    - [Privacy Compliance:](#privacy-compliance-1)
+    - [Bias/Unfairness Alleviation:](#biasunfairness-alleviation-1)
+    - [Other Surveys:](#other-surveys)
+  - [Contributing:](#contributing)
 
 
   
@@ -78,6 +87,7 @@ We categorize existing works based on their modality, and [applications](#applic
 - **WMDP** [arxiv 2403.03218] The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning ([code](https://www.wmdp.ai/))
 - **MUSE** [arxiv 2407.06460] MUSE: Machine Unlearning Six-Way Evaluation for Language Models ([code](https://github.com/swj0419/muse_bench))
 
+OpenUnlearning (https://github.com/locuslab/open-unlearning) is a framework that aims to unify LLM unlearning implements the TOFU, MUSE unlearning benchmarks while supporting 6 unlearning methods, 3+ datasets, 6+ evaluation metrics, and 6+ LLM architectures.
 
 #### LMMs
 - **FIU-Bench:** Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset ([code](https://huggingface.co/datasets/gray311/FIUBench))
