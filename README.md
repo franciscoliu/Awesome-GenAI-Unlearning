@@ -114,45 +114,42 @@ OpenUnlearning (https://github.com/locuslab/open-unlearning) is an framework tha
 
 
 ## Large Language Models (LLMs):
-- 【202503】ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging
-- 【202503】Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU
-- 【202503】Deep Contrastive Unlearning for Language Models
-- 【202503】Atyaephyra at SemEval-2025 Task 4: Low-Rank NPO
-- 【202503】Don't Forget It! Conditional Sparse Autoencoder Clamping Works for Unlearning
-- 【202503】SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability
-- 【202503】GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models
-- 【202503】Effective Skill Unlearning through Intervention and Abstention
-- 【202503】Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The Balancing Act of Selective Unlearning in Large Language Models
-- 【202503】UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets
-- 【202503】Improving LLM Safety Alignment with Dual-Objective Optimization
-- 【202503】AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking
-- 【202503】CE-U: Cross Entropy Unlearning
-- 【202502】FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge
-- 【202502】Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph Traversal and Redundancy Removal
-- 【202502】A General Framework to Enhance Fine-tuning-based LLM Unlearning
-- 【202502】Erasing Without Remembering: Safeguarding Knowledge Forgetting in Large Language Models
-- 【202502】Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond
-- 【202502】Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training
-- 【202502】FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge
-- 【202502】Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph Traversal and Redundancy Removal
-- 【202502】A General Framework to Enhance Fine-tuning-based LLM Unlearning
-- 【202502】Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language Models
-- 【202502】CoME: An Unlearning-based Approach to Conflict-free Model Editing
-- 【202502】LUME: LLM Unlearning with Multitask Evaluations
-- 【202502】UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning
-- 【202502】Obliviate: Efficient Unmemorization for Protecting Intellectual Property in Large Language Models
-- 【202502】Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis
-- 【202502】Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning
-- 【202502】ReLearn: Unlearning via Learning for Large Language Models
-- 【202502】LUNAR: LLM Unlearning via Neural Activation Redirection
-- 【202502】Mitigating Sensitive Information Leakage in LLMs4Code through Machine Unlearning
-- 【202502】Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond
-- 【202502】Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities
-- 【202502】FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model
-- 【202502】Tool Unlearning for Tool-Augmented LLMs
-- 【202502】ALU: Agentic LLM Unlearning
-- 【202502】Resolving Editing-Unlearning Conflicts: A Knowledge Codebook Framework for Large Language Model Updating
-- 【202501】Improving the Robustness of Representation Misdirection for Large Language Model Unlearning
+- 【202503】ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging ([PDF](https://arxiv.org/abs/2503.21088))
+- 【202503】Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU ([PDF](https://arxiv.org/abs/2503.15166))
+- 【202503】Deep Contrastive Unlearning for Language Models ([PDF](https://arxiv.org/abs/2503.14900))
+- 【202503】Atyaephyra at SemEval-2025 Task 4: Low-Rank NPO ([PDF](https://arxiv.org/abs/2503.13690))
+- 【202503】Don't Forget It! Conditional Sparse Autoencoder Clamping Works for Unlearning ([PDF](https://arxiv.org/abs/2503.11127))
+- 【202503】SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability ([PDF](https://arxiv.org/abs/2503.09532))
+- 【202503】GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models ([PDF](https://arxiv.org/abs/2503.09117))
+- 【202503】Effective Skill Unlearning through Intervention and Abstention ([PDF](https://arxiv.org/abs/2503.21730))
+- 【202503】Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The Balancing Act of Selective Unlearning in Large Language Models ([PDF](https://arxiv.org/abs/2503.04795))
+- 【202503】UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets ([PDF](https://arxiv.org/abs/2503.04693))
+- 【202503】Improving LLM Safety Alignment with Dual-Objective Optimization ([PDF](https://arxiv.org/abs/2503.03710))
+- 【202503】AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking ([PDF](https://arxiv.org/abs/2503.02443))
+- 【202503】CE-U: Cross Entropy Unlearning ([PDF](https://arxiv.org/abs/2503.01224))
+- 【202502】FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge ([PDF](https://arxiv.org/abs/2502.19207))
+- 【202502】Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph Traversal and Redundancy Removal ([PDF](https://arxiv.org/abs/2502.18810))
+- 【202502】A General Framework to Enhance Fine-tuning-based LLM Unlearning ([PDF](https://arxiv.org/abs/2502.17823))
+- 【202502】Erasing Without Remembering: Safeguarding Knowledge Forgetting in Large Language Models ([PDF](https://arxiv.org/abs/2502.19982))
+- 【202502】Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond ([PDF](https://arxiv.org/abs/2502.19301))
+- 【202502】Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training ([PDF](https://arxiv.org/abs/2502.19726))
+- 【202502】Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language Models ([PDF](https://arxiv.org/abs/2502.15836))
+- 【202502】CoME: An Unlearning-based Approach to Conflict-free Model Editing ([PDF](https://arxiv.org/abs/2502.15826))
+- 【202502】LUME: LLM Unlearning with Multitask Evaluations ([PDF](https://arxiv.org/abs/2502.15097))
+- 【202502】UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning ([PDF](https://arxiv.org/abs/2502.15082))
+- 【202502】Obliviate: Efficient Unmemorization for Protecting Intellectual Property in Large Language Models ([PDF](https://arxiv.org/abs/2502.15010))
+- 【202502】Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis ([PDF](https://arxiv.org/abs/2502.13996))
+- 【202502】Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning ([PDF](https://arxiv.org/abs/2502.11441))
+- 【202502】ReLearn: Unlearning via Learning for Large Language Models ([PDF](https://arxiv.org/abs/2502.11190))
+- 【202502】LUNAR: LLM Unlearning via Neural Activation Redirection ([PDF](https://arxiv.org/abs/2502.07218))
+- 【202502】Mitigating Sensitive Information Leakage in LLMs4Code through Machine Unlearning ([PDF](https://arxiv.org/abs/2502.05739))
+- 【202502】Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond ([PDF](https://arxiv.org/abs/2502.05374))
+- 【202502】Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities ([PDF](https://arxiv.org/abs/2502.05209))
+- 【202502】FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model ([PDF](https://arxiv.org/abs/2502.01472))
+- 【202502】Tool Unlearning for Tool-Augmented LLMs ([PDF](https://arxiv.org/abs/2502.01083))
+- 【202502】ALU: Agentic LLM Unlearning ([PDF](https://arxiv.org/abs/2502.00406))
+- 【202502】Resolving Editing-Unlearning Conflicts: A Knowledge Codebook Framework for Large Language Model Updating ([PDF](https://arxiv.org/abs/2502.00158))
+- 【202501】Improving the Robustness of Representation Misdirection for Large Language Model Unlearning ([PDF](https://arxiv.org/abs/2501.19202))
 - 【ICLR 2025】A Probalisitic Perspective On Unlearning And Alignment For Large Language Models ([PDF](https://arxiv.org/pdf/2410.03523))
 - 【AAAI 2025】Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models ([PDF](https://arxiv.org/abs/2501.03272))
 - 【202411】Towards Robust Evaluation of Unlearning in LLMs via Data Transformations ([PDF](https://arxiv.org/pdf/2411.15477))
@@ -228,13 +225,13 @@ OpenUnlearning (https://github.com/locuslab/open-unlearning) is an framework tha
 
 
 ## Large Multimodal Models (LMMs):
-- 【202503】SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders
-- 【202503】PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models
-- 【202503】Hyperbolic Safety-Aware Vision-Language Models
-- 【202503】Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-tuning
-- 【202502】SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning
-- 【202502】Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models
-- 【202503】MMUNLEARNER: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models
+- 【202503】SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders ([PDF](https://arxiv.org/abs/2503.14530))
+- 【202503】PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models ([PDF](https://arxiv.org/abs/2503.12545))
+- 【202503】Hyperbolic Safety-Aware Vision-Language Models ([PDF](https://arxiv.org/abs/2503.12127))
+- 【202503】Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-tuning ([PDF](https://arxiv.org/abs/2503.11832))
+- 【202502】SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning ([PDF](https://arxiv.org/abs/2502.12520))
+- 【202502】Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models ([PDF](https://www.arxiv.org/abs/2502.15910))
+- 【202503】MMUNLEARNER: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models ([PDF](https://arxiv.org/abs/2502.11051))
 - 【202410】NegMerge: Consensual Weight Negation for Strong Machine Unlearning ([PDF](https://arxiv.org/pdf/2410.05583), [code](https://github.com/naver-ai/negmerge))
 - 【202407】Direct Unlearning Optimization for Robust and Safe Text-to-Image Models ([PDF](https://arxiv.org/pdf/2407.21035))
 - 【202406】Alignment Calibration: Machine Unlearning for Contrastive Learning under Auditing ([PDF](https://arxiv.org/pdf/2406.03603))
