@@ -87,7 +87,7 @@ We categorize existing works based on their modality, and [applications](#applic
 - **WMDP** [arxiv 2403.03218] The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning ([code](https://www.wmdp.ai/))
 - **MUSE** [arxiv 2407.06460] MUSE: Machine Unlearning Six-Way Evaluation for Language Models ([code](https://github.com/swj0419/muse_bench))
 
-OpenUnlearning (https://github.com/locuslab/open-unlearning) is a framework that aims to unify LLM unlearning implements the TOFU, MUSE unlearning benchmarks while supporting 6 unlearning methods, 3+ datasets, 6+ evaluation metrics, and 6+ LLM architectures.
+OpenUnlearning (https://github.com/locuslab/open-unlearning) is an framework that aims to unify LLM unlearning by implementing prior research in one place. It provides the TOFU, MUSE unlearning benchmarks while supporting multiple unlearning methods, datasets, evaluation metrics, and LLM architectures.
 
 #### LMMs
 - **FIU-Bench:** Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset ([code](https://huggingface.co/datasets/gray311/FIUBench))
