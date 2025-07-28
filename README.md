@@ -114,6 +114,7 @@ OpenUnlearning (https://github.com/locuslab/open-unlearning) is an framework tha
 
 
 ## Large Language Models (LLMs):
+- 【202506】Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models ([PDF](https://arxiv.org/abs/2506.05314))
 - 【202503】ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging ([PDF](https://arxiv.org/abs/2503.21088))
 - 【202503】Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU ([PDF](https://arxiv.org/abs/2503.15166))
 - 【202503】Deep Contrastive Unlearning for Language Models ([PDF](https://arxiv.org/abs/2503.14900))
