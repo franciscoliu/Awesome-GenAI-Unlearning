@@ -73,12 +73,15 @@ We categorize existing works based on their modality, and [applications](#applic
 #### Generative Image Models
 - **UnlearnCanvas** [arxiv 2402.11846] UnlearnCanvas: A Stylized Image Dataaset to Benchmark Machine Unlearning for Diffusion Models ([code](https://github.com/OPTML-Group/UnlearnCanvas))
 
+VisionUnlearning ([https://github.com/LeonardoSanBenitez/vision-unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning)) is a framework for unlearning algorithms, datasets, metrics, and evaluation methodologies commonly used in Machine Unlearning for vision-related tasks, such as image classification and image generation
+
+
 #### LLMs
 - **TOFU** [arxiv 2401.06121] TOFU: A Task of Fictitious Unlearning for LLMs ([code](https://locuslab.github.io/tofu/))
 - **WMDP** [arxiv 2403.03218] The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning ([code](https://www.wmdp.ai/))
 - **MUSE** [arxiv 2407.06460] MUSE: Machine Unlearning Six-Way Evaluation for Language Models ([code](https://github.com/swj0419/muse_bench))
 
-OpenUnlearning (https://github.com/locuslab/open-unlearning) is an framework that aims to unify LLM unlearning by implementing prior research in one place. It provides the TOFU, MUSE unlearning benchmarks while supporting multiple unlearning methods, datasets, evaluation metrics, and LLM architectures.
+OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com/locuslab/open-unlearning)) is an framework that aims to unify LLM unlearning by implementing prior research in one place. It provides the TOFU, MUSE unlearning benchmarks while supporting multiple unlearning methods, datasets, evaluation metrics, and LLM architectures.
 
 #### LMMs
 - **FIU-Bench:** Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset ([code](https://huggingface.co/datasets/gray311/FIUBench))
