@@ -96,6 +96,7 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 
 
 ## Generative Image Models:
+- [BMVC 2025] CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion Models ([PDF](https://arxiv.org/abs/2503.14232))
 - [202410] Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts ([PDF](https://arxiv.org/pdf/2410.12777), [code](https://github.com/sail-sg/Meta-Unlearning))
 - [202409] Enhancing User-Centric Privacy Protection: An Interactive Framework through Diffusion Models and Machine Unlearning ([PDF](https://arxiv.org/abs/2409.03326))
 - [202407] Unlearning Concepts from Text-to-Video Diffusion Models ([PDF](https://arxiv.org/pdf/2407.14209))   
@@ -103,6 +104,7 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 - [202401] Erasediff: Erasing data influence in diffusion models ([PDF](https://arxiv.org/abs/2401.05779))
 - [ICLR 2024] Machine Unlearning for Image-to-Image Generative Models ([PDF](https://arxiv.org/abs/2402.00351), [code](https://github.com/jpmorganchase/l2l-generator-unlearning))
 - [ICLR 2024] SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation ([PDF](https://arxiv.org/abs/2310.12508), [code](https://github.com/OPTML-Group/Unlearn-Saliency))
+- [MIDL 2024] Erase to Enhance: Data-Efficient Machine Unlearning in MRI Reconstruction ([PDF](https://arxiv.org/pdf/2405.15517?), [code](https://github.com/vios-s/Erase-to-Enhance-MRI-Recon-Unlearning))
 - [ICCV 2023] Ablating Concepts in Text-to-Image Diffusion Models ([PDF](https://arxiv.org/abs/2303.13516), [code](https://github.com/nupurkmr9/concept-ablation))
 - [202312] FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models ([PDF](https://arxiv.org/abs/2312.14895), [code](https://github.com/Subhodip123/weak-unlearning-gan))
 - [202311] Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers ([PDF](https://arxiv.org/abs/2311.17717))
