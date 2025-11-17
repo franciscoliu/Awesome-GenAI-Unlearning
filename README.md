@@ -96,6 +96,7 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 
 
 ## Generative Image Models:
+- [CVPR 2025] The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models ([PDF](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html))
 - [BMVC 2025] CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion Models ([PDF](https://arxiv.org/abs/2503.14232))
 - [202410] Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts ([PDF](https://arxiv.org/pdf/2410.12777), [code](https://github.com/sail-sg/Meta-Unlearning))
 - [202409] Enhancing User-Centric Privacy Protection: An Interactive Framework through Diffusion Models and Machine Unlearning ([PDF](https://arxiv.org/abs/2409.03326))
