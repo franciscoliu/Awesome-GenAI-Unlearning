@@ -96,6 +96,7 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 
 
 ## Generative Image Models:
+- 【202507】Automating Evaluation of Diffusion Model Unlearning with (Vision-) Language Model World Knowledge ([PDF](https://arxiv.org/abs/2507.07137))
 - [CVPR 2025] The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models ([PDF](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html))
 - [BMVC 2025] CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion Models ([PDF](https://arxiv.org/abs/2503.14232))
 - [202410] Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts ([PDF](https://arxiv.org/pdf/2410.12777), [code](https://github.com/sail-sg/Meta-Unlearning))
@@ -120,6 +121,42 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 
 
 ## Large Language Models (LLMs):
+- 【202604】CURE:Circuit-Aware Unlearning for LLM-based Recommendation ([PDF](https://arxiv.org/abs/2604.04982))
+- 【202603】Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models ([PDF](https://arxiv.org/abs/2603.26142))
+- 【202603】Attention Smoothing Is All You Need For Unlearning ([PDF](https://arxiv.org/abs/2603.01285))
+- 【202602】REBEL: Hidden Knowledge Recovery via Evolutionary-Based Evaluation Loop ([PDF](https://arxiv.org/abs/2602.06248), [code](https://github.com/patryk-rybak/REBEL/))
+- 【202602】MeGU: Machine-Guided Unlearning with Target Feature Disentanglement ([PDF](https://arxiv.org/abs/2602.17088))
+- 【202602】Layer-Targeted Multilingual Knowledge Erasure in Large Language Models ([PDF](https://arxiv.org/abs/2602.22562))
+- 【202602】GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping ([PDF](https://arxiv.org/abs/2603.12275))
+- 【202601】Representation-Aware Unlearning via Activation Signatures: From Suppression to Knowledge-Signature Erasure ([PDF](https://arxiv.org/abs/2601.10566))
+- 【202601】Reinforcement Unlearning via Group Relative Policy Optimization ([PDF](https://arxiv.org/abs/2601.20568))
+- 【202601】LLMs Can Unlearn Refusal with Only 1,000 Benign Samples ([PDF](https://arxiv.org/abs/2601.19231), [code](https://github.com/guoyang9/refusal-unlearning))
+- 【202601】JPU: Bridging Jailbreak Defense and Unlearning via On-Policy Path Rectification ([PDF](https://arxiv.org/abs/2601.03005))
+- 【202601】From Logits to Latents: Contrastive Representation Shaping for LLM Unlearning ([PDF](https://arxiv.org/abs/2601.22028))
+- 【202601】Forgetting Similar Samples: Can Machine Unlearning Do it Better? ([PDF](https://arxiv.org/abs/2601.06938))
+- 【202601】Evaluating Cross-Lingual Unlearning in Multilingual Language Models ([PDF](https://arxiv.org/abs/2601.06675))
+- 【202601】Data-Free Privacy-Preserving for LLMs via Model Inversion and Selective Unlearning ([PDF](https://arxiv.org/abs/2601.15595))
+- 【202601】Behemoth: Benchmarking Unlearning in LLMs Using Fully Synthetic Data ([PDF](https://arxiv.org/abs/2601.23153), [code](https://github.com/IST-DASLab/behemoth.git))
+- 【202512】Recover-to-Forget: Gradient Reconstruction from LoRA for Efficient LLM Unlearning ([PDF](https://arxiv.org/abs/2512.07374))
+- 【202511】DRAGON: Guard LLM Unlearning in Context via Negative Detection and Reasoning ([PDF](https://arxiv.org/abs/2511.05784))
+- 【202511】Beyond Superficial Forgetting: Thorough Unlearning through Knowledge Density Estimation and Block Re-insertion ([PDF](https://arxiv.org/abs/2511.11667))
+- 【202510】Uncovering the Potential Risks in Unlearning: Danger of English-only Unlearning in Multilingual LLMs ([PDF](https://arxiv.org/abs/2510.23949))
+- 【202510】Leverage Unlearning to Sanitize LLMs ([PDF](https://arxiv.org/abs/2510.21322))
+- 【202510】Label Smoothing Improves Gradient Ascent in LLM Unlearning ([PDF](https://arxiv.org/abs/2510.22376))
+- 【202510】LLM Unlearning on Noisy Forget Sets: A Study of Incomplete, Rewritten, and Watermarked Data ([PDF](https://arxiv.org/abs/2510.09007))
+- 【202510】Hierarchical Federated Unlearning for Large Language Models ([PDF](https://arxiv.org/abs/2510.17895))
+- 【202510】(Token-Level) InfoRMIA: Stronger Membership Inference and Memorization Assessment for LLMs ([PDF](https://arxiv.org/abs/2510.05582))
+- 【202509】Sparse-Autoencoder-Guided Internal Representation Unlearning for Large Language Models ([PDF](https://arxiv.org/abs/2509.15631))
+- 【202509】Scalable and Robust LLM Unlearning by Correcting Responses with Retrieved Exclusions ([PDF](https://arxiv.org/abs/2509.25973))
+- 【202509】Reveal and Release: Iterative LLM Unlearning with Self-generated Data ([PDF](https://arxiv.org/abs/2509.14624))
+- 【202509】OFMU: Optimization-Driven Framework for Machine Unlearning ([PDF](https://arxiv.org/abs/2509.22483))
+- 【202509】Mitigating Biases in Language Models via Bias Unlearning ([PDF](https://arxiv.org/abs/2509.25673))
+- 【202509】Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning ([PDF](https://arxiv.org/abs/2509.22263))
+- 【202509】Collapse of Irrelevant Representations (CIR) Ensures Robust and Non-Disruptive LLM Unlearning ([PDF](https://arxiv.org/abs/2509.11816))
+- 【202509】Can Prompts Rewind Time for LLMs? Evaluating the Effectiveness of Prompted Knowledge Cutoffs ([PDF](https://arxiv.org/abs/2510.02340), [code](https://github.com/gxx27/time_unlearn))
+- 【202508】Surgical Knowledge Rewrite in Compact LLMs: An 'Unlearn-then-Learn' Strategy with ($IA^3$) for Localized Factual Modulation and Catastrophic Forgetting Mitigation ([PDF](https://arxiv.org/abs/2508.07075))
+- 【202508】DUP: Detection-guided Unlearning for Backdoor Purification in Language Models ([PDF](https://arxiv.org/abs/2508.01647))
+- 【202508】CRISP: Persistent Concept Unlearning via Sparse Autoencoders ([PDF](https://arxiv.org/abs/2508.13650))
 - 【202506】Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models ([PDF](https://arxiv.org/abs/2506.05314))
 - 【202503】ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging ([PDF](https://arxiv.org/abs/2503.21088))
 - 【202503】Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU ([PDF](https://arxiv.org/abs/2503.15166))
@@ -232,6 +269,9 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 
 
 ## Large Multimodal Models (LMMs):
+- 【202512】Robust MLLM Unlearning via Visual Knowledge Distillation ([PDF](https://arxiv.org/abs/2512.11325))
+- 【202512】Hierarchy-Aware Multimodal Unlearning for Medical AI ([PDF](https://arxiv.org/abs/2512.09867))
+- 【202510】Approximate Domain Unlearning for Vision-Language Models ([PDF](https://arxiv.org/abs/2510.08132))
 - 【202503】SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders ([PDF](https://arxiv.org/abs/2503.14530))
 - 【202503】PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models ([PDF](https://arxiv.org/abs/2503.12545))
 - 【202503】Hyperbolic Safety-Aware Vision-Language Models ([PDF](https://arxiv.org/abs/2503.12127))
@@ -252,6 +292,8 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 
 ## Applications:
 ### Safety Alignment:
+- 【202601】LLMs Can Unlearn Refusal with Only 1,000 Benign Samples ([PDF](https://arxiv.org/abs/2601.19231), [code](https://github.com/guoyang9/refusal-unlearning))
+- 【202601】JPU: Bridging Jailbreak Defense and Unlearning via On-Policy Path Rectification ([PDF](https://arxiv.org/abs/2601.03005))
 - 【202310】Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2310.10683), [code](https://github.com/kevinyaobytedance/llm_unlearn))
 - 【202404】Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge [[PDF](https://arxiv.org/pdf/2404.05880.pdf)]
 - 【202401】Unlearning Reveals the Influential Training Data of Language Models [[PDF](https://arxiv.org/pdf/2401.15241.pdf)]
@@ -288,6 +330,8 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 
 
 ### Privacy Compliance:
+- 【202601】Data-Free Privacy-Preserving for LLMs via Model Inversion and Selective Unlearning ([PDF](https://arxiv.org/abs/2601.15595))
+- 【202510】(Token-Level) InfoRMIA: Stronger Membership Inference and Memorization Assessment for LLMs ([PDF](https://arxiv.org/abs/2510.05582))
 - 【202311】 MultiDelete for Multimodal Machine Unlearning ([PDF](https://arxiv.org/abs/2311.12047))
 - 【202302】Knowledge Unlearning for Mitigating Privacy Risks in Language Models ([PDF](https://arxiv.org/abs/2210.01504), [code](https://github.com/joeljang/knowledge-unlearning))
 - 【202310】Large Language Model Unlearning ([PDF](https://arxiv.org/pdf/2310.10683), [code](https://github.com/kevinyaobytedance/llm_unlearn))
@@ -315,6 +359,7 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 
 
 ### Bias/Unfairness Alleviation:
+- 【202509】Mitigating Biases in Language Models via Bias Unlearning ([PDF](https://arxiv.org/abs/2509.25673))
 - 【ACL2023】Unlearning Bias in Language Models by Partitioning Gradients ([PDF](https://aclanthology.org/2023.findings-acl.375.pdf), [code](https://github.com/CharlesYu2000/PCGU-UnlearningBias))
 - 【202401】Unlearning Reveals the Influential Training Data of Language Models [[PDF](https://arxiv.org/pdf/2401.15241.pdf)]
 - 【NeurIPS2023 Workshop】FAIRSISA: ENSEMBLE POST-PROCESSING TO IMPROVE FAIRNESS OF UNLEARNING IN LLMS [[PDF](https://arxiv.org/pdf/2312.07420v1.pdf)]
