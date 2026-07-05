@@ -121,6 +121,7 @@ OpenUnlearning ([https://github.com/locuslab/open-unlearning](https://github.com
 
 
 ## Large Language Models (LLMs):
+- 【202605】Measuring the Depth of LLM Unlearning via Activation Patching ([PDF](https://arxiv.org/abs/2605.24614), [code](https://github.com/gnueaj/unlearning-depth-score))
 - 【202604】CURE:Circuit-Aware Unlearning for LLM-based Recommendation ([PDF](https://arxiv.org/abs/2604.04982))
 - 【202603】Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models ([PDF](https://arxiv.org/abs/2603.26142))
 - 【202603】Attention Smoothing Is All You Need For Unlearning ([PDF](https://arxiv.org/abs/2603.01285))
